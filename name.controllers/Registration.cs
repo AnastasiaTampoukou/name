@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace name.controllers
 {
-    public class Class1
+    public static class Registration
     {
+        private static void RegisterName()
+        {
+
+        }
     }
 }

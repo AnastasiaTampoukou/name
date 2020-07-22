@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace name.interfaces
 {
-    public class INameService
+    public interface INameService
     {
     }
 }
